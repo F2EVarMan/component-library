@@ -736,4 +736,5 @@
 - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
 
 # React-相关组件
-- [Draft.js](https://github.com/facebook/draft-js)
+- [Draft.js 官方富文本](https://github.com/facebook/draft-js)
+- [fixed-data-table 支持成百上千行数据的table](https://github.com/facebook/fixed-data-table)
