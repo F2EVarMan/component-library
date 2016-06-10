@@ -235,7 +235,7 @@
 - [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
 
 ##11. 图表绘制/图形库(Graphics)
-
+- [阿里 G2](https://g2.alipay.com/)
 - [Highcharts](https://github.com/highslide-software/highcharts.com)
 - [Chart.js - Simple HTML5 Charts using Canvas](https://github.com/nnnick/Chart.js)
 - [百度 ECharts](https://github.com/ecomfe/echarts)
