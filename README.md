@@ -461,7 +461,7 @@
 - [jQuery Easing -  动画效果扩展](https://github.com/gdsmith/jquery.easing)
 - [animations - CSS3 ANIMATION CHEAT SHEET](http://www.justinaguilar.com/animations/index.html)
 - [iconate.js：将 icons 增加动画效果的 JS 库](https://github.com/bitshadow/iconate)
-
+- [anime.js:javascript动画引擎](https://github.com/juliangarnier/anime)
 ##17. 本地存储
 
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
