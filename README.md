@@ -123,6 +123,7 @@
   - [-prefix-free - Break free from CSS prefix hell](https://github.com/LeaVerou/prefixfree)
   - [ieBetter.js: make ie browser like a morden browser main for ie6~ie8](https://github.com/zhangxinxu/ieBetter.js)
 - 响应式
+  - [lib-flexible - 可伸缩布局方案](https://github.com/amfe/lib-flexible)
   - [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
   - [Free Wall - 创建桌面，移动和平板的动态网格布局](https://github.com/kombai/freewall)
