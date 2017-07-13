@@ -739,6 +739,7 @@
 # React-相关组件
 - [Draft.js 官方富文本](https://github.com/facebook/draft-js)
 - [fixed-data-table 支持成百上千行数据的table](https://github.com/facebook/fixed-data-table)
+- [flux-standard-action flux redux action 规范  ](https://github.com/acdlite/flux-standard-action#payload)
 
 # Git忽略模板
 - [gitignore](https://github.com/github/gitignore)
